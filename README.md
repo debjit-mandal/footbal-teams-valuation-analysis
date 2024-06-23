@@ -7,7 +7,7 @@ This repository contains a comprehensive analysis of football team valuations us
 
 The "Predicting Football Team Valuations" dataset contains detailed information about 50,000 football teams from major European leagues. This dataset includes both numeric and categorical features that are instrumental in determining the financial valuation of these teams.
 
-The dataset can be found in Kaggel:[Football Teams Price Prediction](https://www.kaggle.com/datasets/rashadrmammadov/football-teams-price-prediction/data)
+The dataset can be found in Kaggle: [Football Teams Price Prediction](https://www.kaggle.com/datasets/rashadrmammadov/football-teams-price-prediction/data)
 
 ### Features
 
