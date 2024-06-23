@@ -82,8 +82,8 @@ This analysis provides a comprehensive view of the factors influencing football 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/debjit-mandal/footbal-teams-valuation-analysis.git
-   cd footbal-teams-valuation-analysis
+   git clone https://github.com/debjit-mandal/football-teams-valuation-analysis.git
+   cd football-teams-valuation-analysis
    ```
 
 2. Open the Jupyter notebook:
